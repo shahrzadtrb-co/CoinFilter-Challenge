@@ -109,7 +109,7 @@ function App() {
   return (
     <div className="app">
       {/* Page title and a quick hint about the notional and how missing fees are displayed */}
-      <h1 className="title">THE coding Challenge</h1>
+      <h1 className="title">Challenge TUM Blockchain</h1>
       <p className="subtitle">this app shows maker/taker at the following notion {notional}. the missing value if there is any is shown as "{EM_DASH}" </p>
 
       {/*  search bar for filters by symbol/source */}
