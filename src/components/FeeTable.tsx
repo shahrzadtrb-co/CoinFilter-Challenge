@@ -1,5 +1,4 @@
 //essential sorting 
-import React from 'react';
 import type { LatestRow, FeeNotional } from '../tier types';
 import './styles/style.css';
 import { formatNumber, formateDate, EM_DASH } from '../utilities/format';

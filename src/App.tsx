@@ -1,6 +1,6 @@
 //THE Core File for the Application AKA where the magic happens
 //necessary imports 
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import './styles/style.css';
 import type { RawRow, LatestRow, FeeNotional } from './tier types';
 import { formateDate } from './utilities/format';
