@@ -2,7 +2,7 @@
 import React from 'react';
 import type { LatestRow, FeeNotional } from '../tier types';
 import './styles/style.css';
-import { formatNumber, formateDate, EM_DASH } from '../utilites /format';
+import { formatNumber, formateDate, EM_DASH } from '../utilities/format';
 import SortIcon from './SortIcon';
 
 //how we want to sort the data 

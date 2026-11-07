@@ -3,8 +3,8 @@
 import React, { useEffect, useState } from 'react';
 import './styles/style.css';
 import type { RawRow, LatestRow, FeeNotional } from './tier types';
-import { formateDate } from './utilites /format';
-import { latestBySymbolSource } from './utilites /transform';
+import { formateDate } from './utilities/format';
+import { latestBySymbolSource } from './utilities/transform';
 import SearchBar from './components/SearchBar';
 import NotionalSelector from './components/NotionalSelector';
 
